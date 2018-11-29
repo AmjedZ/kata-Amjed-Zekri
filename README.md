@@ -1,2 +1,2 @@
 # kata-Amjed-Zekri
-An example of Banking data analysis
+An example of Customer Data Analysis
